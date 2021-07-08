@@ -16,3 +16,11 @@ RGB: 38, 50, 56
 Hex: ff5534ff
 
 RGB: 255, 85, 52
+
+## Font Logo TODOLEGAL
+Provicali
+https://www.fontspace.com/provicali-font-f41949
+
+## Font Logo Ley Abierta
+Work Sans
+https://fonts.google.com/specimen/Work+Sans#standard-styles
